@@ -15,12 +15,14 @@ Aquí estoy. Luego de un año, cursando Programación con Objetos I !!!!.
 - Trabajo dando clases particulares de matemática.
 - Me gusta mucho escuchar música, fundamentalmente rock nacional.
 - Cuando tengo un tiempo libre me gusta leer y mirar películas.
-- Mi hijo mayor vive en Gualeguaychu. es un lugar precioso y tranquilo.
-- Tengo un perrito llamado Ozzy.
 - Soy fanática de los sahumerios, el café y el mate.
-    ![IMG_20250123_142443](https://github.com/user-attachments/assets/33336b16-b1f8-4ba4-b6c5-f07e450d024a)
-
+- Mi hijo mayor vive en Gualeguaychu. Es un lugar precioso y tranquilo.
+- Tengo un perrito llamado Ozzy.
   
-![IMG_20241224_183839](https://github.com/user-attachments/assets/9b5f9f74-fb8d-4541-a551-fe787bef0ea3)
+ 
+<img src="https://github.com/user-attachments/assets/33336b16-b1f8-4ba4-b6c5-f07e450d024a" width="400" height="400" />
+<img src="https://github.com/user-attachments/assets/9b5f9f74-fb8d-4541-a551-fe787bef0ea3" width="530" height="530" />
+  
+
 
   
