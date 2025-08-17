@@ -21,7 +21,7 @@ Aquí estoy. Luego de un año, cursando Programación con Objetos I !!!!.
   
  
 <img src="https://github.com/user-attachments/assets/33336b16-b1f8-4ba4-b6c5-f07e450d024a" width="400" height="400" />
-<img src="https://github.com/user-attachments/assets/9b5f9f74-fb8d-4541-a551-fe787bef0ea3" width="530" height="530" />
+<img src="https://github.com/user-attachments/assets/9b5f9f74-fb8d-4541-a551-fe787bef0ea3" width="430" height="430"  />
   
 
 
