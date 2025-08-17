@@ -5,7 +5,7 @@
 
 ### Datos Personales
 - Hola! Mi nombre es Andrea Laura Rodríguez. Pasé mi infancia en los barrios de Boedo y Caballito .En mi adolescencia nos mudamos con mi familia a Haedo, donde aún sigo viviendo.
-Tengo dos hijos, uno de los cuales tambien es alumno de la Unahur.
+Tengo dos hijos, uno de los cuales tambien es alumno de la Unahur. Mi otro hijo es músico.
 Cuando terminé la secundaria, empecé a estudiar la Licenciatura en Matemática en la Facultad de Ciencias Exáctas de la UBA y luego me pasé a la Licenciatura en Ciencias de la Computación. Al promediar la carrera, abandoné por cuestiones personales.
 Trabajé de cajera de un supermercado en mi adolescencia y luego, ya siendo alumna de la UBA, en el laboratorio de Geofísica de la facultad ingresando y controlando datos geomagnéticos. Fue una experiencia muy linda e interesante.
 Lamenté mucho el dejar mis estudios universitarios y siempre fue una cuenta pendiente. Al ya ser mis hijos grandes, consideré que era buen momento para retomarlos y en el 2024 empecé el CPU en la querida UNAHUR.
